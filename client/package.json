@@ -58,7 +58,7 @@
     "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.2.1-alpha-cb11155c8-20211112",
     "html-webpack-plugin": "^5.5.0",
-    "jest-environment-jsdom": "27.0.0",
+    "jest-environment-jsdom": "29.4.3",
     "nth-check": "^2.0.1",
     "path": "^0.12.7",
     "react-recoil-hooks-testing-library": "^0.1.0",
